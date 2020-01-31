@@ -10,6 +10,7 @@ namespace Test10GitHub
     {
         static void Main(string[] args)
         {
+            Mitarbeiter mitarbeiter = new Mitarbeiter();
         }
     }
 }
