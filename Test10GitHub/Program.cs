@@ -10,7 +10,8 @@ namespace Test10GitHub
     {
         static void Main(string[] args)
         {
-            Mitarbeiter mitarbeiter = new Mitarbeiter();
+            //Mitarbeiter mitarbeiter = new Mitarbeiter();
+            List<Mitarbeiter> mitarbeiter = new List<Mitarbeiter>();
         }
     }
 }
